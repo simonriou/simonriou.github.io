@@ -1,7 +1,7 @@
 # Image Mosaicking and Sketching Project
 
 This project consists of two scripts: an image **mosaicking** script and an image **sketching** script. The mosaicking script creates a mosaic image from a target image by matching blocks in the target with patches from a folder. The sketching script generates a pencil sketch effect from a given image by inverting the grayscale image and applying a Gaussian blur.
-Original repository : https://github.com/simonriou/basic_img_processing
+Original repository : [https://github.com/simonriou/basic_img_processing](https://github.com/simonriou/basic_img_processing)
 
 ## Project Structure
 
