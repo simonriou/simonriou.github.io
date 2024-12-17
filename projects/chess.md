@@ -1,6 +1,6 @@
 # Chess Bot
 
-The aim of this project is to develop a neural network capable of evaluating chess positions. The project is still in its infancy and is currently under development.
+The aim of this project is to develop a neural network capable of evaluating chess positions. The project is still in its infancy and is currently under development. Link to the main repository: [https://github.com/simonriou/chess](https://github.com/simonriou/chess)
 
 ## Table of Contents
 - [Installation](#installation)
